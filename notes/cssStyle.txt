@@ -1,0 +1,32 @@
+CSS Sytle Types:
+    - Inline            We use an attribute     =>  [style=""]
+    - Internal          We use the element      =>  <style></style>
+    - External          We use an external file =>  fileName.css
+
+CSS Style Selctors:
+    There are three (3) type of basic selectors
+    - Element Name
+    - ID Name
+    - Class Name
+
+Selector Rule:
+    selectorName {
+        /* code here.. */
+        property: value;
+        property: value;
+        property: value;
+        property: value;
+        property: value;
+        property: value;
+    }
+
+Priority:
+    - inline                => 1st: Very High Priority
+    - ID                    => 2nd: High Priority
+    - Internal/External     => 3rd
+
+HTML Comment Rule:
+    <!-- comment here -->
+
+CSS/JS Comment Rule:
+    /* comment here */
